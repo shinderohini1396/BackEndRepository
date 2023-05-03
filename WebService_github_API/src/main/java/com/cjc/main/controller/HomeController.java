@@ -20,6 +20,7 @@ import com.cjc.main.servicei.HomeServiceI;
 @RestController
 public class HomeController {
 
+
 	@Autowired 
 	HomeServiceI hsi;
 

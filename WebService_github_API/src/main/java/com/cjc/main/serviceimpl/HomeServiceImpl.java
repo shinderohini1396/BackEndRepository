@@ -11,6 +11,7 @@ import com.cjc.main.servicei.HomeServiceI;
 
 @Service
 public class HomeServiceImpl implements HomeServiceI{
+
 	@Autowired 
 	HomeRepository hr;
 

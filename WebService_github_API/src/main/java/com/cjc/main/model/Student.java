@@ -1,5 +1,6 @@
 package com.cjc.main.model;
 
+import javax.persistence.Access;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 

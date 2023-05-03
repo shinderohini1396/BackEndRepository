@@ -5,6 +5,7 @@ import org.springframework.stereotype.Repository;
 
 import com.cjc.main.model.Student;
 
+
 @Repository
 public interface HomeRepository extends CrudRepository<Student, Integer> {
 
